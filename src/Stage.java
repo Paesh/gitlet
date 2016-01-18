@@ -1,14 +1,14 @@
-/**
- * Public class Stage
- * Keeps a record of files added and remvoved since last commit
- * @author xiaofei
- */
-
 import java.io.File;
 import java.io.Serializable;
 import java.util.Map;
 import java.util.HashMap;
 import java.util.ArrayList;
+
+/**
+ * Public class Stage
+ * Keeps a record of files added and remvoved since last commit
+ * @author xiaofei
+ */
 
 public class Stage implements Serializable{
     private Commit latestCommit;

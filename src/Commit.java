@@ -1,8 +1,3 @@
-/**
- * Public class Commit
- * @author xiaofei
- */
-
 import java.io.File;
 import java.io.Serializable;
 import java.nio.file.Files;
@@ -13,6 +8,10 @@ import java.util.Map;
 import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
 import static java.nio.file.StandardCopyOption.COPY_ATTRIBUTES;
 
+/**
+ * Public class Commit
+ * @author xiaofei
+ */
 
 public class Commit implements Serializable{
 

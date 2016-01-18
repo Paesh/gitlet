@@ -1,14 +1,14 @@
-/**
- * Public class CommitTree
- * @author xiaofei
- */
-
 import java.io.File;
 import java.io.Serializable;
 import java.util.Scanner;
 import java.util.Map;
 import java.util.HashMap;
 import java.util.ArrayList;
+
+/**
+ * Public class CommitTree
+ * @author xiaofei
+ */
 
 public class CommitTree implements Serializable{
     private static final String WarningMsg = "Warning: The command you entered may alter the files in your working directory./n" +

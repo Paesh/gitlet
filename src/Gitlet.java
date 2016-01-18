@@ -1,8 +1,3 @@
-/**
- * Class Gitlet includes the main function to start the program
- * @author xiaofei
- */
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -10,6 +5,10 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.IOException;
 
+/**
+ * Class Gitlet includes the main function to start the program
+ * @author xiaofei
+ */
 
 public class Gitlet{
 

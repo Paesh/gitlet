@@ -1,11 +1,10 @@
+import java.io.File;
+import java.io.Serializable;
+
 /**
  * Public class Branch
  * @author xiaofei
  */
-
-import java.io.File;
-import java.io.Serializable;
-
 
 public class Branch implements Serializable{
     private final String branchName;
